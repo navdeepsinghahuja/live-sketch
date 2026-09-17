@@ -7,11 +7,11 @@ This project turns your webcam feed into a real-time pencil sketch using Python 
 
 ## 📸 What It Does
 
-- Captures your live webcam video
-- Applies grayscale + Gaussian blur + edge detection
-- Inverts the result to give a sketch effect
-- Displays it in a live OpenCV window
-- Press `Enter` to close the app
+- Captures your live webcam video. 
+- Applies grayscale + Gaussian blur + edge detection. 
+- Inverts the result to give a sketch effect. 
+- Displays it in a live OpenCV window.
+- Press `Enter` to close the app.
 
 ---
 
